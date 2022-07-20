@@ -4,4 +4,17 @@
     margin: auto;
     border: 2px solid black;
     border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1bbb3e;
+}
+
+a{
+    text-decoration: none;
+}
+
+#atualizar{
+    color: #ffffff;
+    background-color: #1bbb3e;
+    border-radius: 10px;
+    border: #011609 solid 2px;
 }
